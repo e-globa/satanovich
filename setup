@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+#setup import
+cd `dirname $0`
+virtualenv .venv
+.venv/bin/python setup.py develop
+

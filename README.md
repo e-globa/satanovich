@@ -1,0 +1,5 @@
+# Satanovich
+
+## Installation
+
+`./setup`
